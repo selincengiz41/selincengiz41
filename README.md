@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Selin Cengiz 👋</h1>
+<h1 align="center"> I'm Selin Cengiz 👋 || Up School Android Developer Student</h1>
 
 <br/>
 
@@ -16,11 +16,7 @@
 
 ---
 
-<br/>
-
 <img align="right" height="250" alt="guy" width="350" src="https://media.tenor.com/IwxGErroyGAAAAAC/engineer-fixed.gif" /> </a>
-
-<h2 align="left">Up School Android Developer Student </h2>
 
 <h2 align="left">What did i do?</h2>
 
