@@ -24,7 +24,9 @@
 * Android Developer Intern at Kocaeli University Embedded Systems Lab
 * Android Developer Student at [Up School](https://www.upschool.io/).
 
-
+<br/>
+<br/>
+<br/>
 <h2 align="left">Languages and Tools I Use</h2>
 
 | Android | Kotlin | Firebase | Java | C# | Unity | Python | Linux |
