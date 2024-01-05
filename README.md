@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Selin Cengiz 👋 || Up School Android Developer Student</h1>
+<h1 align="center"> I'm Selin Cengiz 👋 ||  Android Developer</h1>
 
 <br/>
 
