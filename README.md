@@ -23,6 +23,7 @@
 * Android Developer Intern at [Bimser Çözüm](https://bimser.com/).
 * Android Developer Intern at Kocaeli University Embedded Systems Lab
 * Android Developer Student at [Up School](https://www.upschool.io/).
+* Android Developer Trainee at [Turkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/).
 
 <br/>
 <br/>
