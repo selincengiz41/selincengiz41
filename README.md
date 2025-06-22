@@ -25,6 +25,7 @@
 * Android Developer Student at [Up School](https://www.upschool.io/).
 * Android Developer Trainee at [Turkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/).
 * Android Developer Intern at [Atmosware](https://atmosware.com.tr/).
+* Android Developer at [Atmosware](https://atmosware.com.tr/).
 
 <br/>
 <br/>
